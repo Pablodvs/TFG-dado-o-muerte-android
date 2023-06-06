@@ -17,7 +17,4 @@
     <string name="volverAlMenu">Volver al menú principal</string>
     <string name="mensaje_bienvenida">Bienvenido a Dado o Muerte</string>
     <string name="nueva_partida">Nueva partida</string>
-    <string name="twitter_consumer_key">LrWiidpLuWKVbfjInDzuNjL2r</string>
-    <string name="twitter_consumer_secret">hJGy4nO2n6kWQIu7qrj28Qa3MrIgN4EtLicUI1iMdO72apjsYz</string>
-
 </resources>
