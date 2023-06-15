@@ -1,3 +1,5 @@
+# For the Spanish manual go to README_ES.md
+
 # Dice or Die
 Welcome to the "Dice or Die" dice game manual!
 
